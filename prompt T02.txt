@@ -1,0 +1,16 @@
+chatgpt
+1. membuat sebuah program java dengan inputan 
+    1. jumlah total data dengan (N) 
+    2. lalu terdapat deretan nilai (n1,n2,..,n) 
+    3. kode kelompok siswa pola nilai 
+berdasarkan kode kelompok, yakni: 
+yohana: 75 julius: 65 indah: 80 wilson: 70 program ini berhubungan dengan array
+
+2. ralat: Tugas Buatlah program yang mampu menentukan total 
+nilai hanya untuk kelompok yang diminta.
+3. tetapi inputannya tetap sama, yakni: jumlah total data, deret nilai, dan kode kelompok siswa
+4. jelaskan aku code bagian switch case
+5. apa kegunaan nilai kelompok pada siwtch case?
+6. oh jadi jika inputan kita untuk yohana 75 60 75 75 80, brrti total nya 220 karena hanya 75 saj ayang diambil?
+7. [img] apakah sudah sesuai?.
+
