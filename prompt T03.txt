@@ -1,0 +1,33 @@
+chatgpt
+
+1. membuat sebuah sistem laundry del dengan program java, yakni memiliki jadwal
+senin: asrama Pniel dan asrama Jati
+selasa: asrama kapernaum, silo, dan rusun empat
+rabu: rusun dua
+dan jumat rusun tiga
+jadi aku mau sistem nya itu pengantaran dilakukan dengan pendataan list baju yang di laundry kan didalam list baju tersebut terdapat nama, nim, dan juga asrama nya, nah aku juga mau jika ada kendala dapat request pengantaran di jam berbeda, contohnya seharusnya pengambilan laundry di jam 6 namun karena ada kelas dan tidak dapat balik ke asrama pengambilan laundry di ambil paling lama pukul 10, jadi selain list baju, tadi terdapat juga data pukul berapa laundry tersebut di ambil, nah stelah selesai laundry di lakukan, aku mau mahasiswa dapat mengevaluasi atau memberi feedback dari hasil laundry nya
+
+2. coba gabungkan seluruh code nya, dengan inputan
+nama: 
+nim:
+asrama:
+jumlah baju:
+list pakaian:
+asrama:
+diantar pukul:
+
+lalu output
+nama:
+Nim
+asrama
+jumlah baju
+list pakaian
+berat pakaian
+tanggal dan waktu penjemputan
+tanggal dan waktu pengantaran
+status
+
+3. berat pakaian terdapat pada output saja, jadi kita perkirakan satu pakaian beratny 0,1kg
+4. hapus jumlah mahasiswa, jumlah pakaian seharusnya
+5. buat list pakaian itu inputan warna dan catatan tambahan per inputn pakaian
+6. berikan output untuk list pakaian yang sudah diinput
