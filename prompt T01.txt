@@ -1,0 +1,13 @@
+chatgpt
+terdapat 2 orang yakni ucok dan butet ingin membeli makan, berikut syarat nya:
+1. jika 100k belanjaan maka kupon 5%, 200k 10%, 300k, 15%. 400k 20% dan 500k 25%
+2. porsi ucok 2x dari porsi si butet
+
+inputan: NGS [Porsi Butet dsn ucok] AP [Porsi Butet dan ucok] GG [Porsi Butet dan ucok] END
+output yang diharapkan: terdapat menu yang di beli, porsi, harga dan total serta total setelah di berikan kupon sesuai dengan syaratnya
+
+2. tambahan: inputan bebas, sesuai dengan kode menu dan juga pemesanan berhenti jika diketik dengen END (looping)
+3. berikut harga dari menu
+4. kenapa tidak bs di compile
+5. berikan code ulang dengan public class Driver1
+6. pemesanan belum menggunakan looping, tidak bisa mesan berulang kali hingga aku ketik end
